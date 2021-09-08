@@ -1,0 +1,60 @@
+body {
+    background: #3c67ca;
+    color: yellow;
+}
+
+#hbd {
+    color: yellow;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#memoryLbl {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#img1 {
+    height: 730;
+    width: 550;
+}
+
+#img2 {
+    height: 730;
+    width: 550;
+}
+
+#img3 {
+    height: 550;
+    width: 630;
+}
+
+#img4 {
+    height: 550;
+    width: 630;
+}
+
+#img5 {
+    height: 700;
+    width: 500;
+}
+
+#img6 {
+    height: 400;
+    width: 600;
+}
+
+#hbdimg {
+    height: 500;
+    width: 600;
+}
+
+#quote {
+    font-size: 25;
+    font-family: cursive;
+}
+
+#collage {
+    height: 600;
+    width: 800;
+}
